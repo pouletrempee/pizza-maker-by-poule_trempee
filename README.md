@@ -6,7 +6,7 @@ A mini game created by poule_trempee !
 
 1/ install the files with the link (mega)
 
-[http://tinyurl.com](http://tinyurl.com/colored-spin-pouletrempee)
+[link](http://tinyurl.com/colored-spin-pouletrempee)
 
 ![example_download_zip_mega](https://github.com/pouletrempee/pizza-maker-by-poule_trempee/assets/152799087/b406eea3-7ce1-41e0-aa17-fdced6093a49)
 
