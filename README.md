@@ -1,4 +1,4 @@
-# pizza-maker-by-poule_trempee
+# colored-spin-by-poule_trempee
 
 A mini game created by poule_trempee ! 
 
